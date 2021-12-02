@@ -13,3 +13,4 @@ Here are the kinds of software I like to use, and to build:
 
  - I like fast software and I dislike slow software.
  - I like software that respects the user's freedom, privacy, and time.
+ - I love open-source software, though I do have a soft spot for independent proprietary software makers like [LightBurn](https://lightburnsoftware.com/).
